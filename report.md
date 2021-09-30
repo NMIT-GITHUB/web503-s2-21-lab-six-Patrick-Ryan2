@@ -1,0 +1,1 @@
+I followed each step and i cannot view the data I believe i have made a mistake somewhere in setting up the database. I will re do this tutorial and fix it.
